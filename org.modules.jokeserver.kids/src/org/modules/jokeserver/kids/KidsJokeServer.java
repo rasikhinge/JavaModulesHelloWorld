@@ -1,4 +1,4 @@
-package org.module.jokeserver.kids;
+package org.modules.jokeserver.kids;
 
 import org.modules.jokeserver.JokeServer;
 
