@@ -7,6 +7,8 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="org.modules.jokeserver.kids" />
+    <orderEntry type="module" module-name="org.modules.jokeserver.programmers" />
     <orderEntry type="module" module-name="org.modules.jokeserver" />
   </component>
 </module>
